@@ -1,7 +1,7 @@
 # Hi, I'm Steven Tao 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+Complex+Problems+Into+Elegant+Solutions;Algo+Trading+%7C+Web3+%7C+AI+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=420&lines=Coding+%7C+Creating+%7C+Automating;Algo+Trading+%7C+Web3+%7C+AI;Building+Bots+That+Trade+Smarter" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,25 +19,62 @@ Passionate about coding and creating. I love turning complex problems into simpl
 
 ### 🛠️ Tech Stack
 
-`Python` `Solidity` `JavaScript` `Binance API` `Ethereum` `Polygon` `Web3.js` `Gemini API` `asyncio` `SQLite`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-**🌤️ [Polymarket Weather Bot](https://github.com/blank-knight/polymaket-weather-bot)** — Multi-model weather fusion (GFS+ECMWF+UKMO+NWS) → edge detection → automated trading. Kelly sizing, 26 cities, 7-layer risk management.
+<table>
+<tr>
+<td width="50%">
 
-**₿ [BTC 15-Minute Bot](https://github.com/blank-knight/polymarket-btc-15-min-bot)** — Real-time Binance WS + 3-layer signal engine for Polymarket BTC 15-min markets. RSI/Bollinger safety valves, last-minute sniper.
+**🌤️ [Polymarket Weather Bot](https://github.com/blank-knight/polymaket-weather-bot)**
+Multi-model weather fusion (GFS+ECMWF+UKMO+NWS) → edge detection → automated trading
+- Quarter-Kelly sizing, 26 cities
+- `Python` `Open-Meteo` `Polymarket API`
 
-**⚡ [MEV Arbitrage Bot](https://github.com/blank-knight/mev-arb-bot)** — On-chain DEX arbitrage with flash loans, multi-pair path finding, gas optimization.
+</td>
+<td width="50%">
 
-**📊 [Daily Stock Analysis](https://github.com/blank-knight/daily_stock_analysis)** — LLM-powered A/H/US stock analyzer. Real-time data + news + AI decisions, zero cost.
+**₿ [BTC 15-Minute Bot](https://github.com/blank-knight/polymarket-btc-15-min-bot)**
+Real-time Binance WS + 3-layer signal engine for BTC 15-min prediction markets
+- RSI/Bollinger safety, last-min sniper
+- `Python` `Binance WS` `Playwright`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚡ [MEV Arbitrage Bot](https://github.com/blank-knight/mev-arb-bot)**
+On-chain DEX arbitrage with flash loans
+- Multi-pair path finding, gas optimization
+- `Solidity` `Web3` `DeFi`
+
+</td>
+<td width="50%">
+
+**📊 [Daily Stock Analysis](https://github.com/blank-knight/daily_stock_analysis)**
+LLM-powered A/H/US stock analyzer
+- Real-time data + news + AI decisions
+- `Python` `Gemini` `Multi-Source`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 Trading Philosophy
 
-> Edge comes from **information asymmetry** and **speed**. Paper trade first, validate with data, then go live. Always use conservative sizing.
+> **Edge comes from information asymmetry and speed.** Paper trade first, validate with data, then go live.
 
 ---
 
