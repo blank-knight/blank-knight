@@ -1,7 +1,7 @@
 # Hi, I'm Steven Tao 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=420&lines=Coding+%7C+Creating+%7C+Automating;Algo+Trading+%7C+Web3+%7C+AI;Building+Bots+That+Trade+Smarter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Coding+%7C+Creating+%7C+Automating;Algo+Trading+%7C+Web3+%7C+AI;Building+Bots+That+Trade+Smarter" alt="Typing SVG" />
 </p>
 
 ---
