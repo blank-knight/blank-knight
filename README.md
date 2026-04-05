@@ -1,31 +1,46 @@
 # Hi, I'm Steven Tao 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Quantitative+Trader+%7C+Bot+Developer;Building+Alpha+with+Code;Polymarket+%7C+Crypto+%7C+Weather+Markets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Complex+Problems+Into+Elegant+Solutions;Algo+Trading+%7C+Web3+%7C+AI+Automation;Building+Bots+That+Trade+Smarter" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 What I Do
+### 🎯 About Me
 
-I build **automated trading bots** that exploit market inefficiencies on Polymarket and crypto exchanges.
+Passionate about coding and creating. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🔥 **Multi-model weather trading** — Fusing GFS/ECMWF/UKMO forecasts to beat Polymarket weather markets
-- ⚡ **BTC 15-minute scalping** — Real-time Binance data + multi-timeframe signals for ultra-short-term prediction markets
-- 🤖 **MEV & Arbitrage** — On-chain arbitrage bots on Ethereum/Polygon
-- 📊 **LLM-powered analysis** — AI-driven stock/crypto analysis with multi-source data fusion
+Currently focused on **algorithmic trading** and **AI-powered automation**:
+
+- 🔥 **Market Prediction Bots** — Weather & crypto prediction market trading on Polymarket
+- ⚡ **DeFi & MEV** — On-chain arbitrage and smart contract development
+- 🤖 **AI-Driven Analysis** — LLM-powered stock/crypto analysis with real-time data
+- 🧠 **Edge From Code** — Information asymmetry + speed = alpha
 
 ---
 
 ### 🛠️ Tech Stack
 
-```
-Languages:  Python · Solidity · JavaScript
-Trading:    Polymarket CLOB · Binance API · Web3 · py_clob_client
-Data:       Open-Meteo · Binance WS · Gamma API · News APIs
-AI/ML:      Gemini · GPT · Custom LLM Pipelines
-Infra:      Polygon · Ethereum · SQLite · asyncio · APScheduler
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Binance_API-FCD535?style=for-the-badge&logo=binance&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Meteo-000000?style=for-the-badge&logo=weather&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -35,8 +50,8 @@ Infra:      Polygon · Ethereum · SQLite · asyncio · APScheduler
 <tr>
 <td width="50%">
 
-**[🌤️ Polymarket Weather Bot](https://github.com/blank-knight/polymarket-weather-bot)**
-Multi-model weather data fusion (GFS+ECMWF+UKMO+NWS) → probability distribution → edge detection → automated trading
+**[🌤️ Polymarket Weather Bot](https://github.com/blank-knight/polymaket-weather-bot)**
+Multi-model weather data fusion (GFS + ECMWF + UKMO + NWS) → probability distribution → edge detection → automated trading
 - Quarter-Kelly position sizing
 - 7-layer risk management
 - 26 cities covered
@@ -69,7 +84,7 @@ On-chain arbitrage bot for Ethereum/Polygon DEXes
 
 **[📊 Daily Stock Analysis](https://github.com/blank-knight/daily_stock_analysis)**
 LLM-powered A/H/US stock analyzer with real-time data + news + AI decisions + multi-channel push
-- Zero cost, pure API scraping
+- Zero cost, all free APIs
 - Scheduled daily runs
 - `Python` `Gemini` `Multi-Source`
 
@@ -107,7 +122,7 @@ LLM-powered A/H/US stock analyzer with real-time data + news + AI decisions + mu
 
 <p align="center">
   <a href="https://github.com/blank-knight"><img src="https://img.shields.io/badge/GitHub-blank--knight-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.wentaoblog.com/"><img src="https://img.shields.io/badge/Blog-wentaoblog.com-2E9EF7?style=for-the-badge&logo=blogger" /></a>
+  <a href="https://www.wentaoblog.com/"><img src="https://img.shields.io/badge/Blog-wentaoblog.com-2E9EF7?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
 ---
